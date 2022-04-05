@@ -1,7 +1,9 @@
-1) jhklf
+1)
+jhklf
 2) 1234
 ^C
 ls -la
 ^ C
   pwd
-
+jsdcj
+ddlllsoooo
